@@ -1,2 +1,2 @@
 # boys-hostel-mess-analysis
-Analysis of Boys hostel Data 
+Analysys of Boys hostel Data 
